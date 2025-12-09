@@ -4,7 +4,7 @@
 3. To enter low state, grab the controller and select L2+A, L2+A, L2+B, L2+L1+START.
 4. The robot should be laying on the floor now, and emitting a local wifi connection you can link to on your Linux machine.
 
-# How to Run Gaits
+# How to Run Gaits On a Physical Robot
 1. Download the Unitree Go1 repos, including unitree_ros, unitree_ros_to_real, and unitree_legged_sdk to your catkin_ws/src directory.
 2. Add the files from this repo's `src` folder to the unitree_legged_sdk/example folder.
 3. Add the files from this repo's `include` folder to the unitree_legged_sdk/include/unitree_legged_sdk folder.
